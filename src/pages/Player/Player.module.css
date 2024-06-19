@@ -1,0 +1,13 @@
+iframe{
+    height: 80vh;
+}
+.container{
+    display: flex;
+    gap: 1rem;
+    justify-content: space-around;
+    padding: 1rem 7%;
+  }
+  h1{
+    font-size: 40px;
+    font-weight: 600;
+  }
