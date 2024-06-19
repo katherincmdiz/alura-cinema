@@ -18,7 +18,7 @@ const {favorito} = useFavoritosContext()
             })}
         </section>
         
-        </>;
+        </>
 }
 
 export default Favoritos;
